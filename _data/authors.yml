@@ -159,7 +159,7 @@ LeeRyeong Song:
   name        : "LeeRyeong Song"
   bio         : "GDSC Yonsei Lead"
   major       : "major: Chemistry and Medical Chemistry, Venture"
-  avatar      : #""
+  avatar      : "/assets/profile/leeryeong.jpg"
   location : "Republic of Korea"
   links:
     - label: "Email"
