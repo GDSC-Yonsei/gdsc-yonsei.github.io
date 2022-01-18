@@ -5,16 +5,16 @@
 
 2. '카테고리명' 폴더 안에 다음과 같은 이름으로 markdown 파일을 하나 만듭니다.
     * <날짜>-<제목>-<본인이름영어>.md
-    * ex) 2021-03-08-OptimalPolicy-jeongmin.md
+    * ex) 2022-01-19-FlutterStudy-leeryeong.md
 
 3. 설정을 아래와 같이 합니다.
 ~~~
 ---
-title: "optimal policy의 수학적 증명과 Monte Carlo method" # 제목을 적어주세요
-excerpt: "Q-learning에서 Markov Decision Process, Bellman equation을 통해 optimal policy를 증명하고 MC 방법에 대해 알아본다." # 요약을 적어주세요
-author : JeongMin Do # 본인 프로필 이름을 입력해주세요. authors.yml에 적은 이름으로 적어주세요.
+title: "제목" # 제목을 적어주세요
+excerpt: "글 요약" # 요약을 적어주세요
+author : LeeRyeong Song # 본인 프로필 이름을 입력해주세요. authors.yml에 적은 이름으로 적어주세요.
 categories:
-  - MLResearch #카테고리명을 적어주세요. 카테고리는 1개만 적어야 하며, 띄어쓰기가 없어야 합니다.
+  - Flutter #카테고리명을 적어주세요. 카테고리는 1개만 적어야 하며, 띄어쓰기가 없어야 합니다.
 tags:
   - 태그1 #태그를 적어주세요. 태그는 여러 개 적을 수 있으며, 띄어쓰기가 없어야 합니다.
   - 태그2
