@@ -154,3 +154,26 @@ DongHyun Kim:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: #
+
+LeeRyeong Song:
+  name        : "LeeRyeong Song"
+  bio         : "GDSC Yonsei Lead"
+  major       : "major: Chemistry and Medical Chemistry, Venture"
+  avatar      : "/assets/profile/leeryeong.jpg"
+  location : "Republic of Korea"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "leeryeongsong0806@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://leeryeongsong.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/leeryeongsong"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: #"https://instagram.com/"
